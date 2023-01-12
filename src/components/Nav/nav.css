@@ -1,0 +1,9 @@
+.Navbar {
+    background-color: var(--secondary-color);
+   justify-items: right;
+   
+}
+
+.Home {
+    font-size: 1.5rem;
+}

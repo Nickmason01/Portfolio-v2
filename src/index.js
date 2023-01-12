@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import 'bootstrap'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css';
 import App from './App';
 import Header from './components/Header/Header';
@@ -12,8 +12,11 @@ root.render(
     <section>
       <Header />
     </section>
+
+    <section>
     <App />
-  </React.StrictMode>
+    </section>
+  </React.StrictMode>, document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function
