@@ -7,6 +7,7 @@
   --secondary-color: #78CDD7;
   --light-varient: #FFFFFA;
   --light-color: #0D5C63;
+  
 
 
 
@@ -28,7 +29,8 @@ body {
  background-size: cover;
  background-repeat: no-repeat;
  background-size: 100%;
- background-attachment: fixed;
+ background-attachment: local;
+ background-color: #0D5C63;
 }
 
 code {

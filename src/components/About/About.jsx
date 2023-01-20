@@ -11,6 +11,12 @@ import { IoLogoNodejs } from "react-icons/io";
 const About = () => {
   return (
     <div className="aboutContainer">
+      
+      <p>Originally business and marketing focused, I received my BA in Marketing from Marshall university in 2014. <br></br>However Tech has always interested me and the drive to learn, create and explore lead me to web developement.<br></br> A recent graduate of OSU's Full-Stack Web Development Bootcamp,<br></br> I am developer looking to 
+          break into the industry. 
+          <br></br>
+          A team player at heart, Ive worked with several groups to collaborate on different projects, some listed below. 
+        </p>
       <div className="educationContainer">
         <p className="learned">Technologies Learned </p>
         <div className="aboutIcons">
@@ -23,11 +29,7 @@ const About = () => {
           <div> <IoLogoNodejs /></div>
         </div>
       </div>
-      <div className="workContainer">
-        <h2>Work Experience</h2>
-      </div>
     </div>
   );
 };
-
 export default About;
