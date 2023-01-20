@@ -1,7 +1,12 @@
 .aboutIcons {
-    font-size: 1.5rem;
-    display: flex;
-    justify-content: space-around;
+    margin-top: 1.5rem;
+    margin-left: 2.7rem;
+    font-size: 4rem;
+    grid-row-gap: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 1rem;
+    
 }
 
 .aboutContainer {
@@ -11,17 +16,22 @@
     justify-content: space-around;
     font-family: "koulen";
     color: var(--light-varient);
+    margin-bottom: 40rem;
    
 }
 
 .educationContainer {
-    padding-left: 2px;
-    border-radius: 1rem;
-    box-sizing: border-box;
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  justify-content: space-evenly;
+  padding-left: 2px;
+   
 
     background-color: var(--primary-color);
 }
 
 .learned {
-    padding-left: 125px;
+    font-size: large;
+    padding-left: 75px;
 }

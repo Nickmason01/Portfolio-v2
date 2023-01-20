@@ -1,6 +1,7 @@
 .Navbar {
    justify-items: right;
    font-family: "koulen";
+   position: fixed;
    
    
 }
