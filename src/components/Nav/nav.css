@@ -1,9 +1,15 @@
 .Navbar {
-    background-color: var(--secondary-color);
    justify-items: right;
+   font-family: "koulen";
+   
    
 }
 
 .Home {
     font-size: 1.5rem;
+}
+
+.navLinks :hover {
+    opacity: 0.6;
+
 }

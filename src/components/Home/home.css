@@ -1,0 +1,16 @@
+.nickElement {
+    justify-content: center;
+    align-items: center;
+    padding-left: 21rem;
+    padding-top: 8rem;
+    font-size:150px;
+    font-family: "koulen";
+    color: var(--light-varient);
+}
+
+.devElement {
+    padding-left: 17rem;
+    font-size:90px;
+    font-family: "koulen";
+    color: var(--light-varient);
+}
