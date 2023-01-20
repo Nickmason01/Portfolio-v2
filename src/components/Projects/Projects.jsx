@@ -7,7 +7,7 @@ const Projects = () => {
       <div class="deck">
         <div class="card hovercard">
           <div class="front face">
-            <h2>Hover</h2>
+            <h2>HelloHiker</h2>
             <div class="bottext">
               <h3>6000kr</h3>
             </div>
@@ -29,7 +29,7 @@ const Projects = () => {
       <div class="deck">
     <div class="card hovercard">
       <div class="front face">
-        <h2>Hover</h2>
+        <h2>Party Planner</h2>
         <div class="bottext">
           <h3>6000kr</h3>
         </div>
@@ -51,7 +51,7 @@ const Projects = () => {
   <div class="deck">
     <div class="card hovercard">
       <div class="front face">
-        <h2>Hover</h2>
+        <h2>E-Commerce Backend</h2>
         <div class="bottext">
           <h3>6000kr</h3>
         </div>
